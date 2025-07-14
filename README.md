@@ -6,7 +6,7 @@ This project builds an AI-powered pipeline to summarize Telugu-language inputs i
 
 ## ✨ Features
 
-- ✅ Input: Telugu text (typed or from transcription)
+- ✅ Input: Telugu text (typed or from transcription) "We can also give the dynamic inputs but this is a static input code file"
 - 🌍 Translate: Telugu ➝ English using GoogleTranslator
 - 🧠 Summarize: English ➝ Short English summary using BART (Hugging Face)
 - 💻 100% Open Source — Runs in Google Colab
